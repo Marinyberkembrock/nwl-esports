@@ -23,7 +23,7 @@ body {
 
     header {
         margin-top: 32px;
-        height: 152px;
+        height: 150px;
     }
 
     header div {
@@ -33,7 +33,7 @@ body {
         border-radius: 50%;
         display: flex;
         padding: 4px;
-        transition: transform .3s;
+        transition: transform .5s;
         
         animation: fromTop .7s 0.4s backwards;
     }
